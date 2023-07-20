@@ -19,6 +19,8 @@ function solution(p) {
 }
 
 // 모범 답안
-function hide_numbers(s) {
-  return s.replace(/\d(?=\d{4})/g, "*");
-}
+// function hide_numbers(s) {
+//   return s.replace(/\d(?=\d{4})/g, "*");
+// }
+
+//정규식을 생각하지 못하였다. 쉬운 문제인데 좀 더 간결하게 작성하는 법을 생각해봐야겠다.
