@@ -46,3 +46,5 @@ function solution(cards1, cards2, goal) {
   });
   return answer;
 }
+//shift 를 사용해서 풀면 더 쉽게 풀 있다
+//shift() 메서드는 배열에서 첫 번째 요소를 제거하고, 제거된 요소를 반환합니다.

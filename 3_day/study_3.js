@@ -46,3 +46,5 @@ function solution(number, limit, power) {
   }
   return answer;
 }
+
+//맨처음에는 number/2로 했었다 결과적으로 시간초과라는 문제가 생겨 제곱근으로 구하니 잘 해결 되었다
